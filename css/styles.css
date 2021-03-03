@@ -331,7 +331,6 @@ button:active{
 }
 
 .frase{
-    clear: both;
     width: 180px;
     margin-top: -5px;
     padding: 10px;
@@ -362,6 +361,7 @@ button:active{
     margin-bottom: 5px;
     text-align: center;
     font-family: "fajala";
+    margin-top: -20px;
 }
 
 .sections section{
